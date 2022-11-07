@@ -1,0 +1,7 @@
+{
+    "env" :{
+        "PORT": "",
+        "JWT_KEY": "",
+        "MONGO_PASS": ""
+    }
+}
